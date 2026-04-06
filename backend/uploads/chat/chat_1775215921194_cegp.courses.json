@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "69c7fb3fce64f85b4a3a275b"
+  },
+  "title": "Complete Web Development Bootcamp",
+  "description": "Master HTML, CSS, JavaScript, React, and Node.js from scratch.",
+  "thumbnail": "",
+  "instructor": "Dr. Arjun Mehta",
+  "videoUrl": "",
+  "level": "beginner",
+  "tags": [
+    "javascript",
+    "html",
+    "css",
+    "react",
+    "node",
+    "web development"
+  ],
+  "category": "Web Development",
+  "estimatedHours": 40,
+  "rating": 4.8,
+  "enrolledCount": 1241,
+  "status": "published",
+  "isFeatured": true,
+  "prerequisites": [],
+  "outcomes": [
+    "Build full-stack web apps",
+    "Understand REST APIs",
+    "Deploy to cloud"
+  ],
+  "createdBy": {
+    "$oid": "69c7fb3dce64f85b4a3a2740"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-28T16:01:03.786Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-28T16:20:48.945Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c7fb3fce64f85b4a3a275c"
+  },
+  "title": "React.js Mastery",
+  "description": "Advanced React hooks, Redux, optimization, and production apps.",
+  "thumbnail": "",
+  "instructor": "Priya Sharma",
+  "videoUrl": "",
+  "level": "intermediate",
+  "tags": [
+    "react",
+    "javascript",
+    "frontend",
+    "redux",
+    "web development"
+  ],
+  "category": "Frontend",
+  "estimatedHours": 25,
+  "rating": 4.9,
+  "enrolledCount": 891,
+  "status": "published",
+  "isFeatured": true,
+  "prerequisites": [],
+  "outcomes": [
+    "Advanced React patterns",
+    "State management",
+    "Performance optimization"
+  ],
+  "createdBy": {
+    "$oid": "69c7fb3dce64f85b4a3a2740"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-28T16:01:03.786Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-28T16:21:52.966Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c7fb3fce64f85b4a3a275d"
+  },
+  "title": "Node.js & Express Backend",
+  "description": "Build scalable APIs with Node, Express, MongoDB, and JWT.",
+  "thumbnail": "",
+  "instructor": "Vikram Joshi",
+  "videoUrl": "",
+  "level": "intermediate",
+  "tags": [
+    "node",
+    "express",
+    "javascript",
+    "backend",
+    "mongodb"
+  ],
+  "category": "Backend",
+  "estimatedHours": 28,
+  "rating": 4.7,
+  "enrolledCount": 562,
+  "status": "published",
+  "isFeatured": false,
+  "prerequisites": [],
+  "outcomes": [
+    "REST API design",
+    "Authentication",
+    "Database design"
+  ],
+  "createdBy": {
+    "$oid": "69c7fb3dce64f85b4a3a2740"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-03-28T16:01:03.786Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-01T17:36:10.724Z"
+  }
+}]
